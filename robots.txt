@@ -1,0 +1,22 @@
+User-Agent: *
+Host: booksstar.ru
+Disallow: *.jpg
+Disallow: *.png
+Disallow: *.gif
+Disallow: *.ico
+Disallow: /rules.html
+Disallow: /u****
+Disallow: /u*
+Disallow: /u**
+Disallow: /u***
+Disallow: *.swf
+Disallow: /restore
+Disallow: /register
+Disallow: /index.php?go=*
+Disallow: /?go=*
+
+
+
+
+
+

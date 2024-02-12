@@ -1,0 +1,1 @@
+<div class="onefriend"><a href="/u{user-id}" onClick="Page.Go(this.href); return false"><div style="WIDTH: 50px; BACKGROUND: url({ava}) no-repeat; HEIGHT: 50px; background-size: 50px 50px; -webkit-border-radius: 25px; border-radius: 25px; -moz-border-radius: 25x"></div>{name}<br /><span>{last-name}</span></a></div>

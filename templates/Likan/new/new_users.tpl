@@ -1,0 +1,1 @@
+<div class="ten"><a href="/u{user-id}" onclick="Page.Go(this.href); return false"><div style="width:100px;height:100px;border-radius:50px;-webkit-border-radius:50px;-moz-border-radius:50px;float:left;background:url({ava}) no-repeat;background-size:100px 100px"></div><div>{name}</div></a></div>

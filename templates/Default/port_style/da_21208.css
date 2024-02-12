@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600,400,300&amp;subset=latin,cyrillic-ext,latin-ext,cyrillic);*{margin:0;padding:0}body{background-color:#0094ff;width:100%;height:100%;font-family:'Open Sans',sans-serif;color:white;font-size:10pt;font-weight:300}#page{width:235px;margin:0 auto}#page table{margin-top:80px}#page input[type="text"],input[type="password"]{margin-top:15px;width:230px;height:35px;border:0;padding-left:10px;background:url(http://design.onspace.net/auth/images/input.png) no-repeat}input:-webkit-autofill{-webkit-box-shadow:0 0 0 1000px white inset}#page input[placeholder],[placeholder],*[placeholder]{color:white !important}#page ::-webkit-input-placeholder{color:white}a{cursor:pointer;font-weight:600;color:white;text-decoration:none}#page input[type=submit]{font-weight:300;color:#FFF;font:12px;text-decoration:none;position:relative;border:0;margin-top:12px;height:35px;width:235px;text-align:center;background:#333a3e;border-radius:2px;-webkit-border-radius:2px;-moz-border-radius:2px;z-index:1;padding:7px 12px;cursor:pointer;margin-bottom:10px}#page input[type=submit]:hover{background:#42494c;cursor:pointer}#footer{color:#5abaff;margin-top:60px;font-size:9pt}#footer b{cursor:pointer}
+
+.fereastra_lang{   -webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px; display:none;position:absolute;z-index:4;width:180px;min-height:22px;background:white;border:1px #b8b8b8 solid; padding-left:10px;padding-right:10px;padding-top:15px;padding-bottom:15px;word-wrap:break-word;margin-top:-116px;font-size:10pt;float:right;margin-left:130px}
+.fereastra_lang a { font-weight:400; }
+
+
+.fereastra_lang:after, .fereastra_lang:before {
+	top: 100%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.fereastra_lang:after {
+	border-color: rgba(0, 0, 0, 0);
+	border-top-color: white;
+	border-width: 10px;
+	left: 78%;
+	margin-left: -10px;
+}
+.fereastra_lang:before {
+	border-color: rgba(184, 184, 184, 0);
+	border-top-color: #b8b8b8;
+	border-width: 11px;
+	left: 78%;
+	margin-left: -11px;
+}
+ 
+
+
+
+
+
+
+
+
+
+.fereastra_lang li{list-style-type:none}.fereastra_lang li a img{margin-right:5px}.fereastra_lang li a{color:#999;font-size:10pt;cursor:pointer}.fereastra_lang li a:hover{color:#1585d6}

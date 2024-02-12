@@ -1,0 +1,40 @@
+
+.fereastra_lang{   -webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px; display:none;position:absolute;z-index:4;width:180px;min-height:22px;background:white;border:1px #b8b8b8 solid; padding-left:10px;padding-right:10px;padding-top:15px;padding-bottom:15px;word-wrap:break-word;margin-top:-116px;font-size:10pt;float:right;margin-left:130px}
+.fereastra_lang a { font-weight:400; }
+
+
+.fereastra_lang:after, .fereastra_lang:before {
+	top: 100%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.fereastra_lang:after {
+	border-color: rgba(0, 0, 0, 0);
+	border-top-color: white;
+	border-width: 10px;
+	left: 78%;
+	margin-left: -10px;
+}
+.fereastra_lang:before {
+	border-color: rgba(184, 184, 184, 0);
+	border-top-color: #b8b8b8;
+	border-width: 11px;
+	left: 78%;
+	margin-left: -11px;
+}
+ 
+
+
+
+
+
+
+
+
+
+.fereastra_lang li{list-style-type:none}.fereastra_lang li a img{margin-right:5px}.fereastra_lang li a{color:#999;font-size:10pt;cursor:pointer}.fereastra_lang li a:hover{color:#1585d6}
